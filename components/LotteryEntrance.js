@@ -111,6 +111,7 @@ export default function LotteryEntrance() {
                         <div className="font-bold ">Recent Winner:</div>
                         <div className="px-4">{recentWinner}</div>
                     </div>
+                    <div>whats up</div>
                 </div>
             ) : (
                 <div> No Raffle Address found </div>
